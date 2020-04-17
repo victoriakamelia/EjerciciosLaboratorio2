@@ -1,0 +1,7 @@
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Jaime\Desktop\vict\Objetos\Ejercicio16\obj\Debug\Ejercicio16.pdb

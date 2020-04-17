@@ -1,0 +1,7 @@
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\obj\Debug\Ejercicio14.pdb
+C:\Users\Jaime\Desktop\vict\MetodosEstaticosDeClase\Ejercicio14\obj\Debug\Ejercicio14.csprojAssemblyReference.cache
