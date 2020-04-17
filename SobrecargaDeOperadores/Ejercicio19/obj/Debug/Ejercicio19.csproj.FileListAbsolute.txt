@@ -1,0 +1,7 @@
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Jaime\Desktop\vict\SobrecargaDeOperadores\Ejercicio19\obj\Debug\Ejercicio19.pdb

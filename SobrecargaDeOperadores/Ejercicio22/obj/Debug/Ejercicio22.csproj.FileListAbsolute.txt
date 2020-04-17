@@ -1,0 +1,7 @@
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\obj\Debug\Ejercicio22.csprojAssemblyReference.cache
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\vpereyra\Desktop\vict\SobrecargaDeOperadores\Ejercicio22\obj\Debug\Ejercicio22.pdb
