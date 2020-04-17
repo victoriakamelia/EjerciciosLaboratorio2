@@ -1,0 +1,7 @@
+C:\Users\Jaime\Desktop\vict\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\vict\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Jaime\Desktop\vict\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Jaime\Desktop\vict\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Jaime\Desktop\vict\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Jaime\Desktop\vict\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Jaime\Desktop\vict\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
